@@ -3,18 +3,18 @@ entries:
   wikijs:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-20T13:54:13.579980072Z"
+    created: "2020-04-20T14:11:53.818691217Z"
     dependencies:
     - condition: postgres.enabled
       name: postgresql
       repository: https://kubernetes-charts.storage.googleapis.com/
       version: 8.4.3
     description: A Helm chart for Kubernetes
-    digest: c8e1e901bfe751bd33d115f096e15c5222d2bb6892c45b928695faae88f29dd0
+    digest: 01b6c2dced48d4f46cfdd007437c22a7afc8f0eb7a66584a9f517a05d467e782
     home: https://skhedim.github.io/test-chart/
     name: wikijs
     type: application
     urls:
-    - https://github.com/BeWog/helm-wikitest/releases/download/wikijs-0.1.1/wikijs-0.1.1.tgz
-    version: 0.1.1
-generated: "2020-04-20T13:54:13.465029075Z"
+    - https://github.com/BeWog/helm-wikitest/releases/download/wikijs-0.1.2/wikijs-0.1.2.tgz
+    version: 0.1.2
+generated: "2020-04-20T14:11:53.705627283Z"
